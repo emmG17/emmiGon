@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @emmiGon
+- 👋 Hi, I’m Emmanuel Gonzalez
 - 👀 I’m interested in Web Development🌐, AI🤖 and game development 🎮
 - 🌱 I’m currently learning Software Engineering in college and through courses and projects
 - 💞️ I’m looking to collaborate on FOSSx static websites, and SPAs
